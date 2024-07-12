@@ -3,6 +3,6 @@
 
 ---
 
-[**`C#`**](https://github.com/lxRbckl/lxRbckl/blob/main/C#/README.md)
+[**`C Sharp`**](https://github.com/lxRbckl/lxRbckl/blob/main/C-Sharp/README.md)
 
 # 
