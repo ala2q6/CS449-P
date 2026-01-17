@@ -1,8 +1,4 @@
 # CS490DL P
-> [University of Missouri - Kansas City](https://www.umkc.edu/): [CS449](https://catalog.umkc.edu/colleges-schools/science-engineering/computer-science/bachelor-of-science-computer-science/): Project
-
----
-
-[**`CS`**](https://github.com/lxRbckl/lxRbckl/blob/main/CS/README.md)
-
-# 
+> University of Missouri - Kansas City: CS449: Project
+>
+> **`C#`**
